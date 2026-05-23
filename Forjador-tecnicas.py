@@ -4,7 +4,7 @@ import math
 st.set_page_config(page_title="Forja de Técnicas OP RPG 2.0", layout="wide")
 
 st.title("⚔️ Forja de Técnicas - Edição Mestre (OP RPG 2.0)")
-st.markdown("Motor fiel às regras do Capítulo 6: Aceleração feita apenas pela modificação 'Técnica Rápida' (Custo = Grau da Técnica).")
+st.markdown("Motor feito de fã para fã, criado por um mestre que quer facilitar a vida dos seus amados players mesmo que eles sejam safados, abraço para o bando do Cuzão. Criado por Eru")
 st.markdown("---")
 
 # ==========================================
